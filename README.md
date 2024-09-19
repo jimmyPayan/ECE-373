@@ -1,2 +1,6 @@
-# ECE-373
-Java assignments since OneDrive doesn't like Java
+## ECE-373 Assignments 
+
+### Status Report
+Completed: 1
+WIP: 2
+Not started: 3, 4, 5, 6, 7, 8
