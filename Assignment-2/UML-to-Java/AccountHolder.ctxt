@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AccountHolder
+comment0.text=\r\nAccountHolder\ class\ w/\ getters\ +\ setters\r\n
+comment1.params=ID\ Address\ AccountHeld
+comment1.target=AccountHolder(int,\ java.lang.String,\ Account)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AccountHolder\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=Address
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=ID
+comment5.target=void\ setID(int)
+comment6.params=AccountHeld
+comment6.target=void\ addAccount(Account)
+numComments=7
